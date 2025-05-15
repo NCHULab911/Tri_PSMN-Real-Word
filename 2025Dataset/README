@@ -1,0 +1,9 @@
+用途:基於PSMN延伸L型三目相機所建立包含水平、垂線障礙物資料集
+相機配置: L型三目相機
+參考相機:左相機
+Base line = 7.5cm
+訓練集距離= 1公尺~7公尺
+拍攝地點:國立中興大學_電機大樓
+
+Reference
+L型三目相機參考論文: 徐明志., & Hsu, M.-C. (2023). 偵測水平線的三目相機立體視覺: 演算法= Trinocular Vision to See Horizontal Wires: Algorithm. 國立中興大學.
