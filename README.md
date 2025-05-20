@@ -1,4 +1,4 @@
-# ***Establishing a Trinocular Depth Camera Navigation Environment And Expanding Realistic Scene Dataset With Horizontal Lines***
+# ***L_Tri_PSMNet***
 
 基於PSMNet延伸L型三目相機所建立真實場景，包含水平、垂線、天空、障礙物資料集  
 使用深度相機: ntel RealSense Lidar Camera L515  
