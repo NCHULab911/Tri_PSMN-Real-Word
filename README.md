@@ -1,4 +1,4 @@
-# **Tri-Scene-Real_2025***
+# ***Tri-Scene-Real_2025***
 
 架構:基於雙目相機PSMNet改良，L型三目相機L_tri_PSMN架構,如下圖
 深度相機: ntel RealSense Lidar Camera L515  
