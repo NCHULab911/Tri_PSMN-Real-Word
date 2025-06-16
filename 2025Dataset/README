@@ -1,3 +1,4 @@
+資料集:Tri-Scene-Real_2025  
 此資料集總共為569張，分別為465張的Train和104張的Test  
 內組圖片包含了左相機(L)、右相機(R)、下相機(B)和Ground truth(label)  
 每組圖片已經過極線校正，並把Ground truth轉為參考相機(L)視角  
