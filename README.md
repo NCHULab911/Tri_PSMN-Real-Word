@@ -4,7 +4,7 @@
 深度相機: Intel RealSense Lidar Camera L515  
 相機配置: L型三目相機  
 參考相機: 左相機  
-Baseline =7.5cm(左右、左下光心)
+Baseline =7.5cm(左右、左下光心)   
 <img src="https://github.com/user-attachments/assets/26fd5fc9-4d6a-4a44-8dab-eab033356cd5" width="50%">  
 
 Reference  
