@@ -14,15 +14,15 @@ Baseline =7.5cm(左右、左下光心)
 
 以下展示使用Intel RealSense Lidar Camera L515所建立資料集範例，左圖為參考相機RGB圖、右圖為Ground Truth   
 
-<img width="701" height="794" alt="1222222222222222" src="https://github.com/user-attachments/assets/d32b0702-6f2d-405e-940c-b900ff2e7395" />   
+
+<img width="701" height="756" alt="1222222222222222" src="https://github.com/user-attachments/assets/09f8c99a-2aa0-4399-a996-0c737190f052" />   
 
 
 
 這邊則展示使用L_Tri_PSMN預測搭配雷射測距範例。  
 
 
-
-<img width="705" height="518" alt="12222222" src="https://github.com/user-attachments/assets/449a8fd5-e916-4bcb-b7f3-9ad06fc4df7a" />   
+<img width="702" height="494" alt="12222222" src="https://github.com/user-attachments/assets/c177d5c9-518e-4024-a8f8-6cb0c74b7a9f" />   
 
 
 
