@@ -8,9 +8,9 @@
 Baseline =7.5cm(左右、左下光心)   
 
 資料集涵蓋了無人機真實世界飛行中可能遇到的多種典型環境，如宅區的電線、大樓、天空以及7公尺外的遠距離障礙物，更貼近實際應用需求。   
+<img width="708" height="254" alt="1222" src="https://github.com/user-attachments/assets/f858e942-5029-4b02-b839-c84c275742b2" />   
+<img width="721" height="254" alt="1222222" src="https://github.com/user-attachments/assets/0b4f9f20-5ed8-46c5-a1ac-9526347b6ede" />   
 
-<img width="915" height="419" alt="1222" src="https://github.com/user-attachments/assets/a90ef7a0-869f-46c2-ac4a-ee46c864bdd9" />   
-<img width="754" height="288" alt="1222222" src="https://github.com/user-attachments/assets/a0754d6e-6b94-46e8-8e31-a1343d490059" />   
 
 Reference  
 ***潘裕升., & Pen, Y.-S. (2024). 建立三目深度相機導航環境與製作含水平線的現實場景資料集= Establishing a Trinocular Depth Camera Navigation Environment And Producing a Realistic Scene Dataset Containing Horizontal Lines. 國立中興大學.***  
