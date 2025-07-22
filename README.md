@@ -13,8 +13,10 @@ Baseline =7.5cm(左右、左下光心)
 2: 7公尺以上使用:L_Tri_PSMN預測搭配雷射測距儀驗證其準確度   
 
 以下展示使用Intel RealSense Lidar Camera L515所建立資料集範例     
+
 <img width="701" height="794" alt="1222222222222222" src="https://github.com/user-attachments/assets/723bcf60-e309-43c5-b34f-bec8c995ef77" />   
-這邊則展示使用L_Tri_PSMN預測搭配雷射測距範例。     
+這邊則展示使用L_Tri_PSMN預測搭配雷射測距範例。  
+
 <img width="724" height="522" alt="12222222" src="https://github.com/user-attachments/assets/923ca1c5-b16f-459c-bf03-ee69d146fe45" />   
 
 資料集總共586組，分別為481組的Traning和104組的Testing   
